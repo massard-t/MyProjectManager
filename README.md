@@ -3,7 +3,7 @@ Python-based tool to assist IT students in their projects
 
 ## Optimize My Time
 Task optimisation based on Gantt's diagramms, opening in a temporary web browser
-TaskName;TSK;[ABV](Abbreviation for the needed tasks)
+TaskName;TSK;\[ABV\](Abbreviation for the needed tasks)
 
 ## Create My Base
 Asks the user for informations about the project (language, templates, etc...)
